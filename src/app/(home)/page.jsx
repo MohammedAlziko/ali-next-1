@@ -20,7 +20,7 @@ const Home = () => {
      <Header />
 
      <section className="content">
-      <p className="lifestyle">Lifestyle collection</p>
+      <p className="lifestyle">Mohammed Mansour</p>
       <p className="men">MEN</p>
       <p className="sale">
         SALE UP TO <span>30% OFF</span>
